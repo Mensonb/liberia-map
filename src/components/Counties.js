@@ -4,12 +4,12 @@ export default function Counties() {
     return (
 
         <>
-            <div className="mx-auto max-w-5xl py-8">
+            <div className="mx-auto max-w-5xl py-8 ">
 
-                <div class="grid lg:grid-cols-3 gap-3">
+                <div>
                     <div class="mx-3 mb-2 rounded-lg shadow-lg">
 
-                        <a href="#">
+                        <a href="#" target="_blank">
 
                             <img class="w-full h-48"
                                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Flag_of_Bomi_County.svg/180px-Flag_of_Bomi_County.svg.png"
@@ -20,7 +20,7 @@ export default function Counties() {
                             <p class="leading-normal text-gray-700">Bomi is one of the fifteen counties of Liberia. The county is located in the northwestern part of the country. Bomi county has a surface area of 1,942 square kilometers and a population of 82,036 according to 2008 population data. County was founded in 1984, and its capital is Tubmanburg. Bomi is divided into four districts.</p>
                         </div>
                     </div>
-
+{/*  */}
                     <div class="mx-4 mb-2 rounded-lg shadow-lg">
 
                         <a href="">
